@@ -1,0 +1,19 @@
+h1{
+	color:hotpink;
+	text-shadow: 2px 2px 4px #000000;
+	text-align:center;
+}
+p{
+	border: 1px solid magenta;
+	color:purple;
+	text-align:center;
+	font-size:large;
+}
+ol {
+	list-style-type: upper-roman;
+	color:lightcoral;
+}
+ul {
+	list-style-type: circle;
+	color:magenta;
+}
